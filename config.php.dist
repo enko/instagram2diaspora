@@ -1,0 +1,12 @@
+<?php
+
+$config = [
+    'instagram' => [
+        'user' => '',
+    ],
+    'diaspora' => [
+        'id' => '',
+        'password' => '',
+        'aspect' => 'public',
+    ]
+];

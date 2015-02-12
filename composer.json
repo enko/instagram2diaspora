@@ -1,0 +1,15 @@
+{
+    "name": "enko/instagram2diaspora",
+    "description": "Post your instagram pics to diaspora",
+    "minimum-stability": "dev",
+    "license": "vodkaware",
+    "authors": [
+        {
+            "name": "Tim Schumacher",
+            "email": "tim@datenknoten.me"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~5.2"
+    }
+}
